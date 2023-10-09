@@ -1,1 +1,8 @@
-
+{
+  "domain": "example_load_platform",
+  "name": "Example Load Platform",
+  "codeowners": [],
+  "dependencies": [],
+  "iot_class": "local_polling",
+  "requirements": []
+}
