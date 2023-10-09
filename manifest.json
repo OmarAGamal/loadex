@@ -1,6 +1,6 @@
 {
-  "domain": "example_load_platform",
-  "name": "Example Load Platform",
+  "domain": "loadex",
+  "name": "Load Example",
   "codeowners": [],
   "dependencies": [],
   "iot_class": "local_polling",
